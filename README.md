@@ -1,3 +1,5 @@
+![Template rluipdev](rafaelluisgonzaga.png)
+ 
  # 🤖 Agente de IA com N8N e Google Sheets
 
 Este projeto demonstra a criação de um **Agente de Inteligência Artificial (IA)** utilizando a ferramenta de automação **N8N**, integrada ao **Google Sheets** para registrar conversas e adicionar funcionalidades avançadas como **memória contextual** e **ferramentas externas (RAGs)**.
